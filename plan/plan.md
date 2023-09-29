@@ -13,7 +13,6 @@
 - Projects
 - Family
 - WCU Startup Center
-- The Student Times
 - Gallery
 - Login/Signup
 - Texnopark Learning
